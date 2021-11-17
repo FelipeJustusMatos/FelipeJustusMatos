@@ -2,8 +2,8 @@
 
 <div style="display: inline_block">
   <a href="https://github.com/flips159-coder">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=flips159-coder&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flips159-coder&layout=compact&langs_count=7&theme=dark"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=felipe-justus&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-justus&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
