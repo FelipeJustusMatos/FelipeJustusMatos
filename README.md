@@ -1,9 +1,9 @@
 <h2 align="center">Olá! Eu sou o Felipe Justus</h2> 
 
 <div>
-  <a href="https://github.com/felipe-justus">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=felipe-justus&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-justus&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/FelipeJusutsMatos">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=FelipeJusutsMatos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeJusutsMatos&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
