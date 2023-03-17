@@ -1,4 +1,5 @@
-<h2 align="center">Olá! Eu sou o Felipe Justus</h2> 
+<h2 align="center">Olá! Eu sou o Felipe Justus</h2>
+<h3 align="center">Hi! I'm Felipe Justus</h3>
 
 <div>
   <a href="https://github.com/FelipeJustusMatos">
