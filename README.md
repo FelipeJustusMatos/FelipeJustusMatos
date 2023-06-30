@@ -1,8 +1,3 @@
-<div id="github-stats"></div>
-#github-stats {
-  width: 500px;
-  height: 400px;
-}
 // Função para obter as estatísticas do GitHub
 function getGithubStats(username) {
   const url = `https://api.github.com/users/${username}/repos`;
@@ -15,7 +10,8 @@ function getGithubStats(username) {
 
       // Contabiliza as linguagens usadas nos repositórios
       data.forEach(repo => {
-        for (const language in repo.language) {
+        const language = repo.language;
+        if (language) {
           if (languages[language]) {
             languages[language] += 1;
           } else {
